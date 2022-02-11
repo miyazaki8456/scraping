@@ -1,0 +1,27 @@
+.log-view-area{
+    width: 590px;
+    height: 450px;
+    margin-left: 45px;
+}
+
+textarea{
+    resize: none;
+
+   white-space: pre;
+   overflow-wrap: normal;
+   overflow-x: auto;
+}
+.list1,.list2,.list3{
+    float:left;
+    list-style:none;
+}
+
+.list2{
+    margin-top: 18px;
+    margin-left: 5px;
+}
+
+.list3{
+    margin-top: 18px;
+    margin-left: 10px;
+}
